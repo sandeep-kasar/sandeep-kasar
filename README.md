@@ -18,7 +18,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=sandeep-kasar&color=brightgreen" alt="watching_count" />
 <img src="https://img.shields.io/badge/Lives-India-success" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
+<img src="https://img.shields.io/badge/Languages-English, Hindi%20%26%20Marathi-brightgreen" />
 </p>
 
 <hr></hr>
