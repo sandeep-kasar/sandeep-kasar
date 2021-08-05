@@ -49,7 +49,7 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-### You can also reach me via:
+### Reach me at :
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
