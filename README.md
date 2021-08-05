@@ -1,7 +1,8 @@
+<!-- 
 <p align="center">
   <img src="https://github.com/sandeep-kasar/sandeep-kasar/blob/main/writing-code-laptop.jpg" height="410" width="1000"/>
 </p>
-
+-->
  
 ### About Me ? 👋
 
