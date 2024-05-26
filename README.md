@@ -7,8 +7,7 @@
 ### About Me ? 👋
 
 - 🔭 I love to design & develop the android applications.
-- 🌱 I’m learning Flutter.
-- 👯 I like to work on REST APIs using python.
+- 🌱 I’m learning React native and Node.js.
 - 🤔 Yes, I can play with backend stuff! 
 - 💬 Ask me about modern android development
 - 📫 How to reach me: Twitter :[@sandeep_kasar1](https://twitter.com/sandeep_kasar1), LinkedIn: [sandeep-kasar](https://www.linkedin.com/in/sandeep-kasar/) 
@@ -27,12 +26,11 @@
 
 - 📱 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![ReactNative](https://img.shields.io/badge/-ReactNativ-333333?style=flat&logo=React.js)
 - 💻 &nbsp;
   ![Kotlin](  https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=007396)
 - 🛢 &nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -40,7 +38,6 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 - ⚙️ &nbsp;
