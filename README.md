@@ -26,7 +26,7 @@
 
 - 📱 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React.js)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 - 💻 &nbsp;
   ![Kotlin](  https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
