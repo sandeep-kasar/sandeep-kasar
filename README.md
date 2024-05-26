@@ -9,7 +9,7 @@
 - 🔭 I love to design & develop the android applications.
 - 🌱 I’m learning React native and Node.js.
 - 🤔 Yes, I can play with backend stuff! 
-- 💬 Ask me about modern android development
+- 💬 Ask me about modern android development and jectpack compose !
 - 📫 How to reach me: Twitter :[@sandeep_kasar1](https://twitter.com/sandeep_kasar1), LinkedIn: [sandeep-kasar](https://www.linkedin.com/in/sandeep-kasar/) 
 - 😄 Call Me: Sandeep
 - ⚡ Fun fact: Love to watch instagram reel !!
@@ -38,7 +38,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 - ⚙️ &nbsp;
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
