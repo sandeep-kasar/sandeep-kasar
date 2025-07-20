@@ -34,7 +34,6 @@
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
 - 🛢 **Databases & Cloud**
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
